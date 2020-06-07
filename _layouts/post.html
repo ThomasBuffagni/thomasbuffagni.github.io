@@ -10,8 +10,12 @@ layout: default
   </div>
 
   <div class="date">
-    Ecrit le {{ page.date | date: "%B %e, %Y" }}
+    Ecrit le {{ page.date }}
   </div>
 
   {% include disqus.html %}
+  
+  <script type="text/javascript" async
+    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
 </article>
