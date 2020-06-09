@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le Deep Learning en douceur
-date: 7 juin 2020
+date_fr: 7 juin 2020
 ---
 
 Le Deep Learning est un domaine d'application de l'intelligence artificielle, c'est celui qui produit actuellement les meilleurs résultats. C'est justement grâce à ses performances qu'il a attiré l'attention des chercheurs et qu'il est maintenant utilisé dans de nombreux systèmes intelligents.
