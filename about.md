@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Bonjour ! Je m'appelle Thomas Buffagni, je suis un jeune ingénieur en machine Learning basé à Sophia-Antipolis.Je suis passionné de Deep Learning et durant mon apprentissage j'écris des articles sur ce blog pour vous partager mes découvertes.
+Bonjour ! Je m'appelle Thomas Buffagni, je suis un jeune ingénieur en machine Learning basé à Sophia-Antipolis. Je suis passionné de Deep Learning et durant mon apprentissage j'écris des articles sur ce blog pour vous partager mes connaissances.
 
 Je vous partagerai mes meilleures découvertes et écrirai des tutoriels dédiés aux débutants pour donner plus de visibilité à ce domaine qui me fascine.
 
