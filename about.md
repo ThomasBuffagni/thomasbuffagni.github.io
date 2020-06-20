@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Bonjour ! Je m'appelle Thomas Buffagni, je suis un jeune ingénieur en machine Learning basé à Sophia-Antipolis.Je suis passionné de Deep Learning et durant mon apprentissage j'écris des articles sur ce blog pour vous partager mes découvertes.
 
-### More Information
+Je vous partagerai mes meilleures découvertes et écrirai des tutoriels dédiés aux débutants pour donner plus de visibilité à ce domaine qui me fascine.
 
-A place to include any other types of information that you'd like to include about yourself.
+J'espère que l'un de mes articles vous aura aidé. Si c'est le cas, n'hésitez pas à le partager sur les réseaux sociaux pour en faire profiter tout le monde.
 
-### Contact me
+Pour toutes suggestions ou commentaires, contactez-moi à l'adresse t.buffagni@hotmail.fr.
 
-[email@domain.com](mailto:email@domain.com)
+Bonne lecture !
